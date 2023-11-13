@@ -1,3 +1,3 @@
-module puffer.io
+module github.com/ansurfen/puffer.io
 
 go 1.20
